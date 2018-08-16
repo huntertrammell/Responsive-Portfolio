@@ -1,0 +1,294 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', sans-serif;
+    background-image: url("../media/bananas.png");
+    padding-bottom: 100px;
+}
+
+section {
+    background-color: #ffffff;
+    text-align: left;
+    border: 2px solid #dddddd;
+    padding: 30px;
+    line-height: 25px;
+    margin: 15px 15px 15px 15px;
+    max-width: 960px;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    font-size: 30px;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    height: 75px;
+    width: 100%; 
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+ul {
+    float: right;
+    padding-top: 30px;
+}
+
+li {
+    display: inline-block;
+}
+
+image {
+    float: left;
+    padding-right: 20px;
+    padding-top: 25px;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #777777;
+    font-weight: 50;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    padding-bottom: 25px;
+}
+
+article {
+    padding-top: 19px;
+}
+
+footer {
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+    height: 45px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+h3 {
+    padding-top: 25px;
+}
+
+input {
+    width: 100%;
+    border: 2px solid #dddddd;
+    line-height: 20px;
+}
+
+.form {
+    color: #777777;
+    padding-top: 20px;
+    line-height: 32px;
+}
+
+.message {
+    height: 250px;
+    color: #777777;
+}
+
+.submit {
+    width: 20%;
+    margin-top: 15px;
+    height: 30px;
+    color: white;
+    background-color: #4aaaa5;
+    display: block;
+}
+
+.container {
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    clear: both;
+    overflow: auto;
+}
+
+.textBox {
+    background: #4aaaa5;
+    text-align: center;
+    float: left;
+    height: 75px;
+    width: 265px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.grayBar {
+    border: 2px solid #dddddd;
+}
+
+.wrapper {
+    max-width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.wrapper2 {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.contact {
+    padding: 15px;
+    margin-top: 10px;
+    border: 5px;
+}
+
+.portfolio {
+    padding: 15px;
+    margin-top: 10px;
+    border: 5px;
+    border-right: 1px solid #dddddd;
+}
+
+.about {
+    padding: 15px;
+    margin-top: 10px;
+    border: 5px;
+    clear: right;
+    border-right: 1px solid #dddddd;
+}
+
+.siteTag {
+    float: left;
+    padding: 15px;
+    margin-top: 10px;
+    border: 15px;
+    clear: both;
+    overflow: auto;
+}
+
+.box {
+    margin-bottom: -515px;
+    overflow: hidden;
+}
+
+.boxtext1 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext2 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext3 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext4 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext5 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+#textarea {
+    width: 100%;
+}
+
+#message {
+    display: block;
+}
+
+#box1 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+#box2 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    top: -217px;
+    right: -280px;
+}
+
+#box3 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    top: -240px;
+}
+
+#box4 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    right: -280px;
+    top: -457px;
+}
+
+#box5 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    top: -480px;
+}
