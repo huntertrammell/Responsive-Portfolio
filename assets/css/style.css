@@ -292,3 +292,22 @@ input {
     padding-right: 20px;
     top: -480px;
 }
+
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+    
+}
+
+@media screen and (max-width: 640px) {
+    header {
+        position: static;
+        text-align: center;
+        margin: 0 auto;
+    }
+    div.textBox {
+        width: 100%;
+    }
+}
